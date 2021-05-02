@@ -1,2 +1,0 @@
-# OOP
-Football management system
